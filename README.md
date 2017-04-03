@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Here we go, the beginnings of Squiff's adventure!
+
+p.s. i want a taco
